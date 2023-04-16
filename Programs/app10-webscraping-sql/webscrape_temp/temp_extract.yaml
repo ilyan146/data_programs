@@ -1,0 +1,5 @@
+temp:
+  css: "#temperatureId"
+
+date:
+  css: "#temperatureLabel"
