@@ -11,4 +11,6 @@ Provides also an option to see the weather in a 6 interval time period based for
 * Ploty.express visualization used to show the changing temperature over the time periods.
 
 ## Sample of Application and Interactable Features.
+![image](https://github.com/ilyan146/data_programs/assets/123881167/33a81a2f-89dc-461b-9b14-206cd869912c)
+![image](https://github.com/ilyan146/data_programs/assets/123881167/e5d1379b-868f-4c25-9bc6-60c06fb47c95)
 
