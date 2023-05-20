@@ -1,7 +1,7 @@
 # Weather Web Scraper with the use of a SQL Database
 ## A web scraper application that utilizes realtime changing data by keeping log in a database and providing visualization.
 The functioning application monitors the global average temperature and updates on a set interval, storing all data in a SQL database using SQLite. Plotly Express is used to visualize the changes on Streamlit.
-The application is shows sample codes to do the following.
+The application shows sample codes to do the following.
 
 * Uses an online API for constantly updating temperature data and scrapes the necessary global temperature using selectorlib library.
 * Establishes connection with SQL database using SQLite3.
